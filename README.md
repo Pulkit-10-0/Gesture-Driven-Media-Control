@@ -10,7 +10,7 @@ This project is a **touchless media control system** inspired by BMW cars' gestu
 - **Real-Time Feedback**: Visual indicators for gestures and volume levels.  
 - **Cooldown System**: Prevents accidental multiple track changes with a built-in delay.  
 
----
+--- 
 
 ### Watch the Demo:
 [![Watch the Demo](https://img.youtube.com/vi/E4N5C6S1yZA/0.jpg)](https://youtu.be/E4N5C6S1yZA)
